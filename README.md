@@ -1,10 +1,8 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Darsh
 
 🚀 Passionate about Code, Collaboration & Innovation
 
-💻 **Full Stack Developer | Python Enthusiast | Open Source Contributor**
-
-🌱 Currently learning advanced **Data Structures & Algorithms**, **Data Science**, **Artificial Intelligence (AI)** & **Machine Learning (ML)**  
+🌱 Currently learning **Data Structures & Algorithms**, **Data Science**, **Artificial Intelligence (AI)** & **Machine Learning (ML)**  
 ⚡ Working on real-time collaborative apps using **FastAPI**, **Next.js**, and **PostgreSQL**
 
 🔍 Exploring the world of Data Analytics, Model Building, and Automation to solve real-world problems.  
@@ -23,16 +21,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-🔬 Currently Learning:  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
 
 ---
 
 📫 Let’s connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darsh-rawat-625a84322/)  
 
 📈 I’m always up for challenges in open source, hackathons, and impactful projects that push my skills further.
