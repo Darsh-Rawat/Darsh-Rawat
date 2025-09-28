@@ -36,3 +36,4 @@
 
 ---
 ![Darsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darsh-Rawat&show_icons=true&theme=tokyonight&count_private=true)
+![](https://leetcard.jacoblin.cool/darshr10?ext=heatmap?theme=nord)
