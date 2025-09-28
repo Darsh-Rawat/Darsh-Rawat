@@ -35,5 +35,5 @@
 
 
 ---
-![Darsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darsh-Rawat&show_icons=true&theme=tokyonight&count_private=true)
+![Darsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darsh-Rawat&show_icons=true&theme=tokyonight&count_private=true) <br/>
 ![](https://leetcard.jacoblin.cool/darshr10?ext=heatmap?theme=nord)
